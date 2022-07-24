@@ -28,11 +28,11 @@ datawhale&科大讯飞举办的学习挑战赛————“车辆贷款违约�
 
 ## 运行环境
 
-> numpy 1.21.1
-> pandas 1.3.1
-> scikit-learn 0.24.2
-> lightgbm 3.2.1
-> tqdm 4.51.0
+> - numpy 1.21.1
+> - pandas 1.3.1
+> - scikit-learn 0.24.2
+> - lightgbm 3.2.1
+> - tqdm 4.51.0
 
 
 
