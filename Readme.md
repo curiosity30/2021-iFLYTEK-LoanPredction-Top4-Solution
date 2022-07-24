@@ -1,4 +1,4 @@
-# 2021-iFLYTEK-LoanPredction-competition
+# 2021-iFLYTEK-LoanPredction-Top4-Solution
 
 ## 赛题介绍
 
