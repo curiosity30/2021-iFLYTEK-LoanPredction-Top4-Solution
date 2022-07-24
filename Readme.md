@@ -2,7 +2,7 @@
 
 ## 赛题介绍
 
-datawhale&科大讯飞举办的学习挑战赛————“车辆贷款违约预测挑战赛” Rank4 方案
+datawhale&科大讯飞举办的学习挑战赛————**“车辆贷款违约预测挑战赛” Rank4 方案**
 
 [赛题链接](https://challenge.xfyun.cn/topic/info?type=car-loan&ch=dc-web-banner01)
 
